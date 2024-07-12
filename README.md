@@ -2,15 +2,15 @@
 
 This repository contains the code for a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. 
 
-#Demo
+# Demo
 
 You can play the game directly in your browser by clicking on the link below:
 
 https://sayali-gade.github.io/Rock-Paper-Scissor/
 
-#Features
+# Features
  
-*Two-player gameplay: Players can choose between Rock, Paper, or Scissors.
+* Two-player gameplay: Players can choose between Rock, Paper, or Scissors.
  
 * Computer opponent: The game features a computer opponent that randomly selects its choice.
  
@@ -18,7 +18,7 @@ https://sayali-gade.github.io/Rock-Paper-Scissor/
 
 * Reset functionality: Allows players to start a new game.
 
-#Technologies used: 
+# Technologies used: 
  
 * HTML: Structure of the game board, buttons, and result display.
  
@@ -26,7 +26,7 @@ https://sayali-gade.github.io/Rock-Paper-Scissor/
  
 * JavaScript: Game logic, win detection, user input handling, and UI updates.
 
-#How To Play
+# How To Play
 
 * Open the following link : https://sayali-gade.github.io/Rock-Paper-Scissor/
 
@@ -36,7 +36,7 @@ https://sayali-gade.github.io/Rock-Paper-Scissor/
  
 * Click the "Reset" button to start a new game.
 
-#About the Project
+# About the Project
 
 The project was created to demonstrate a basic understanding of HTML,CSS and Javascript.It is a simple game that can be played in browser.
 

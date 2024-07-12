@@ -10,31 +10,31 @@ https://sayali-gade.github.io/Rock-Paper-Scissor/
 
 #Features
  
-.Two-player gameplay: Players can choose between Rock, Paper, or Scissors.
+*Two-player gameplay: Players can choose between Rock, Paper, or Scissors.
  
-. Computer opponent: The game features a computer opponent that randomly selects its choice.
+* Computer opponent: The game features a computer opponent that randomly selects its choice.
  
-. Result display: The game shows the result of each round (win, lose, draw) and keeps track of the score.
- 
-. Reset functionality: Allows players to start a new game.
+* Result display: The game shows the result of each round (win, lose, draw) and keeps track of the score.
+
+* Reset functionality: Allows players to start a new game.
 
 #Technologies used: 
  
-. HTML: Structure of the game board, buttons, and result display.
+* HTML: Structure of the game board, buttons, and result display.
  
-. CSS: Styling of the game board, buttons, and result display.
+* CSS: Styling of the game board, buttons, and result display.
  
-. JavaScript: Game logic, win detection, user input handling, and UI updates.
+* JavaScript: Game logic, win detection, user input handling, and UI updates.
 
 #How To Play
 
-. Open the following link : https://sayali-gade.github.io/Rock-Paper-Scissor/
+* Open the following link : https://sayali-gade.github.io/Rock-Paper-Scissor/
 
-. Choose your move by clicking on the Rock, Paper, or Scissors buttons.
+* Choose your move by clicking on the Rock, Paper, or Scissors buttons.
  
-. The game will display the result and update the score.
+* The game will display the result and update the score.
  
-. Click the "Reset" button to start a new game.
+* Click the "Reset" button to start a new game.
 
 #About the Project
 
